@@ -22,7 +22,7 @@ import React from 'react';
 function App(){
   return (
     <div>
-      <h1>리엑트</h1>
+      <p>hello 리엑트</p>
     </div>
   )
 }
